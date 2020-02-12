@@ -62,6 +62,28 @@ En general, el administrador de tareas y la interfaz intuitiva de Chanty hacen d
 
 El plan gratuito de Chanty está limitado a 10 personas en un equipo mientras sus planes pagados comience en $ 3 por usuario por cada mes.
 
+## Alternativas de GitHub
+
+**GitLab**
+
+GitHub y GitLab son plataformas donde los usuarios pueden mantener repositorios de código. Son dos opciones similares en algunos aspectos, pero diferentes en otros. Hasta ahora uno de las principales diferencias residía en el precio. En el caso de la primera opción que mencionamos, costaba dinero crear repositorios privados. Esto ha cambiado recientemente. Ahora GitHub permite crear repositorios privados y gratuitos. 
+
+Esta diferencia reside en el número máximo de colaboradores por repositorio. GitHub permite crear repositorios privados de manera ilimitada, pero con un máximo de 3 colaboradores. Por su parte GitLab permite también crear repositorios privados ilimitados y gratuitos, pero en esta ocasión no hay límite de colaboradores.
+
+Otra característica importante es el tamaño máximo permitido. En el caso de GitHub ofrece hasta 1 GB por repositorio de manera gratuita. Además, cada archivo que subamos al repositorio no debe pasar de 100 MB. En caso de superar estos límites, la plataforma nos avisará.
+
+Por parte de GitLab ofrece una mayor capacidad de almacenamiento. El límite por repositorio es de 10 GB, o sea 10 veces mayor que en el caso de GitHub.
+
+**Bitbucket**
+
+El servicio también es muy similar a GitHub y refleja la mayoría de sus características con ligeras diferencias. Bitbucket esta mejor orientado a los equipos de desarrollo profesional, ya que proporciona grandes beneficios para ellos, como repositorios privados gratuitos, integración con Jira, revisión de código avanzado. Al mismo tiempo, con el crecimiento del equipo, Bitbucket ofrece condiciones de precios más adecuadas comparadas con GitHub y GitLab. 
+
+Beneficios: Repositorios privados para equipos pequeños. Equipos pequeños, hasta 5 integrantes, pueden obtener un número ilimitado de repositorios y 500 minutos de compilación. En la oferta empresarial, Butbucket cobra $5 por usuario al mes, mientras que GitHub cobra $21.
+Bitbucket tiene una búsqueda consistente de código. En lugar de simplemente indexar su código como texto, Butbucket utiliza la búsqueda semántica que analiza la sintaxis de su código.
+El enfoque empresarial de Bitbucket significa que encontrará funciones como la verificación en dos pasos para dar a los administradores mayor control sobre quién puede ver, enviar o clonar un repositorio de código privado.
+
+Desventajas: No es de código abierto, pero admite proyectos de código abierto.
+
 
 
 
