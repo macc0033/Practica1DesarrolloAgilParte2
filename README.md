@@ -1,5 +1,11 @@
 
-# Practica1DesarrolloAgilParte2
+# Practica 1 Desarrollo Ágil: Parte 2                                 
+
+![captura5](https://github.com/macc0033/Practica1DesarrolloAgilParte2/blob/Prueba/Imágenes/uja.png "Captura5")
+
+**Realizado por:** 
+- Miguel Ángel Carpio Colomo (macc0033).
+- Antonio Gómez Bejarano (agb00063).
 
 ## Ejercicio: Buscar 2 alternativas a Trello, Slack y GitHub y analizar para cada una de ellas sus ventajas y consecuencias.
 
@@ -55,3 +61,13 @@ Chanty es una sencilla herramienta de chat en equipo para equipos pequeños y me
 En general, el administrador de tareas y la interfaz intuitiva de Chanty hacen de la herramienta de chat una alternativa Slack sólida para los menos conocedores de la tecnología. Pero dicho esto  puedes conectar a Chanty con un montón de aplicaciones a través de Zapier, haciendo que la plataforma de chat del equipo sea más sólida.
 
 El plan gratuito de Chanty está limitado a 10 personas en un equipo mientras sus planes pagados comience en $ 3 por usuario por cada mes.
+
+
+
+
+
+Tras haber finalizado la búsqueda de las diferentes alternativas, procedemos a marcar las tareas impuestas en *Trello* como completadas, siempre con la comunicación del equipo a través de *Slack*
+
+![captura3](https://github.com/macc0033/Practica1DesarrolloAgilParte2/blob/Prueba/Imágenes/Trello2.PNG "Captura3")
+
+![captura4](https://github.com/macc0033/Practica1DesarrolloAgilParte2/blob/Prueba/Imágenes/slack2.PNG "Captura4")
