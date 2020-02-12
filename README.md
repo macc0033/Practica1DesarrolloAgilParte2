@@ -11,3 +11,4 @@ Además le asignaremos un color en función de a qué tipo de tarea se refiere:
 
 
 ![captura1](https://github.com/macc0033/Practica1DesarrolloAgilParte2/blob/Prueba/Imágenes/Trello1.PNG "Captura1")
+<font color="red">This is some text!</font>
