@@ -13,9 +13,14 @@ Además le asignaremos un color en función de a qué tipo de tarea se refiere:
 
 ![captura1](https://github.com/macc0033/Practica1DesarrolloAgilParte2/blob/Prueba/Imágenes/Trello1.PNG "Captura1")
 
-**Alternativas de Trello**
+Por otro lado, a su misma vez el equipo hemos estado en comunicación con la herramienta que se nos pide en la práctica, en este caso *Slack*, de tal forma que podemos realizar diferentes interacciones tanto con *Trello* como con *GitHub* pues ambas herramientas se encuentran vinculadas.
 
-#KanbanFlow
+![captura2](https://github.com/macc0033/Practica1DesarrolloAgilParte2/blob/Prueba/Imágenes/Slack1.PNG "Captura2")
+
+
+#### Alternativas de Trello
+
+**KanbanFlow**
 
 KanbanFlow es un tablero Kanban que te permite organizar tu trabajo de una forma visual y te ayuda a simplificar la comunicación en equipo para aumentar tu productividad.
 
@@ -25,7 +30,7 @@ Tienes varias cosas que no consigues en Trello, como la posibilidad de añadir u
 
 KanbanFlow es gratuito sin límite de tiempo ni de usuarios y además integra un reloj con estadísticas. También tienen un plan de pago que incluye reportes y analíticas mucho más extensas. Eso sí, no tienes aplicaciones nativas, pero puedes acceder a todo desde la web.
 
-##Archmule
+**Archmule**
 
 Archmule es una alternativa genial y bastante simplificada a Trello. Funciona de la misma manera, un gran tablero con columnas desde las que puedes arrastrar diferentes tareas en forma de tarjetas. También tienes una página de inicio en la que se te muestra un resumen con lo más importante de cada actualización de cada equipo o proyecto que sigues.
 
